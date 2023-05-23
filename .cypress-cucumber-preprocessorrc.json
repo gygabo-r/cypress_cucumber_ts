@@ -1,0 +1,13 @@
+{
+  "html": {
+    "enabled": true,
+    "output": "cypress/reports/html/report.html"
+  },
+  "json": {
+    "enabled": true,
+    "output": "cypress/reports/json/report.json"
+  },
+    "messages": {
+      "enabled": false
+    }
+}

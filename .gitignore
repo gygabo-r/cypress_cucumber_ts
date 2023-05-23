@@ -34,3 +34,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .idea/
+cypress/reports/html/
+cypress/screenshots/
+cypress/reports/json/
+*.ndjson
